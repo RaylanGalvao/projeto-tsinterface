@@ -21,7 +21,7 @@ const novoCurso: cursoProps = {
 console.log(novoCurso)
 console.log(novoCurso.promocao(350))
 
-console.log("======================================================================")
+console.log("======================================================================  ")
 
 interface somaProps {
     (valor1: number, valor2: number): number

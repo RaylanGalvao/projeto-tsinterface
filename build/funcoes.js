@@ -10,7 +10,7 @@ const novoCurso = {
 };
 console.log(novoCurso);
 console.log(novoCurso.promocao(350));
-console.log("======================================================================");
+console.log("======================================================================  ");
 let somaNumeros = (valor1, valor2) => {
     console.log(`resultado`, valor1 + valor2);
     return valor1 + valor2;
